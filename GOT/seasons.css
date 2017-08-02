@@ -1,0 +1,162 @@
+.background{
+width: 100%;
+padding: 0px;
+height: 700px;
+background: #5F7987;
+border: 0px;
+
+}
+
+
+.top{
+  padding-top: 130px;
+  padding-bottom: 50px;
+  text-align: center;
+}
+
+.container1{
+display: block;
+top: 200px;
+background: #9B9B9B;
+width: 100%;
+height: 96px;
+}
+
+
+.container2{
+display: block;
+top: 200px;
+background: #EDA750;
+width: 100%;
+height: 96px;
+}
+
+
+.container3{
+display: block;
+top: 200px;
+background: #C4384A;
+width: 100%;
+height: 96px;
+}
+
+
+.container4{
+display: block;
+top: 200px;
+background: #E05244;
+width: 100%;
+height: 96px;
+}
+
+
+.container5{
+display: block;
+top: 200px;
+background: #5BB8AF;
+width: 100%;
+height: 96px;
+}
+
+.container6{
+display: block;
+top: 200px;
+background: #81C781;
+width: 100%;
+height: 96px;
+}
+
+
+
+
+
+.titlecontainer{
+padding-top: 300px;
+width: 100%;
+padding-left: 60px;
+}
+
+.guide{
+width: 100%;
+padding-left: 70px;
+}
+
+.icons{
+
+}
+
+.enter1{
+width: 100%;
+padding-top: 80px;
+padding-left: 150px;
+}
+
+
+/* GAME OF THRONES: */
+
+h1{
+font-family: "Avenir-Black", sans-serif;
+font-size: 48px;
+color: #FAFBFC;
+letter-spacing: 2.1px;
+line-height: 58px;
+text-shadow: 0 2px 4px rgba(0,0,0,0.50);
+
+}
+
+
+/* CHARACTER GUIDE: */
+h2{
+font-family: "Avenir-Medium", sans-serif;
+font-size: 20px;
+color: #FAFBFC;
+letter-spacing: 2px;
+line-height: 58px;
+margin: 0 auto;
+}
+
+h3{
+  font-family: "Avenir-Light", sans-serif;
+  font-size: 20px;
+  color: #FAFBFC;
+  letter-spacing: 2px;
+  line-height: 58px;
+  text-decoration: none;
+}
+
+.number{
+  list-style-type: none;
+   text-decoration: none;
+   padding-top: 20px;
+   text-align: center;
+}
+
+.header{
+  list-style-type: none;
+   text-decoration: none;
+   padding-top: 20px;
+   text-align: center;
+}
+
+.header a{
+  font-family: "Avenir-Light", sans-serif;
+  font-size: 20px;
+  color: #FAFBFC;
+  letter-spacing: 2px;
+  line-height: 58px;
+  text-decoration: none;
+}
+
+
+
+
+
+
+.number a{
+  font-family: "Avenir-Light", sans-serif;
+  font-size: 14px;
+  color: #FAFBFC;
+  letter-spacing: 2px;
+  line-height: 58px;
+  text-decoration: none;
+}

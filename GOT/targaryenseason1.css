@@ -1,0 +1,282 @@
+.background{
+width: 100%;
+padding: 0px;
+height: 500px;
+background: #5F7987;
+border: 0px;
+
+}
+
+
+
+.icons{
+  padding-top: 30px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+
+
+
+
+
+
+.top{
+  padding-top: 60px;
+  padding-bottom: 50px;
+  text-align: center;
+  background-image: url(targaryen.png);
+  background-repeat: no-repeat;
+  background-size: 60px;
+  background-position: 50%;
+}
+
+
+
+
+.container1{
+top: 200px;
+
+
+background: #E05244;
+border: 1px solid  #B7453A;
+background-image: url(images/dany1.jpg);
+background-repeat: no-repeat;
+background-size: 60px;
+background-position: 12%;
+width: 100%;
+height: 96px;
+}
+
+
+.container2{
+display: block;
+top: 200px;
+
+background: #E05244;
+border: 1px solid  #B7453A;
+background-image: url(images/vis1.jpg);
+background-repeat: no-repeat;
+background-size: 60px;
+background-position: 12%;
+width: 100%;
+height: 96px;
+}
+
+
+.container3{
+display: block;
+top: 200px;
+
+background: #E05244;
+border: 1px solid  #B7453A;
+background-image: url(images/khal1.jpg);
+background-repeat: no-repeat;
+background-size: 60px;
+background-position: 12%;
+width: 100%;
+height: 96px;
+}
+
+
+.container4{
+  display: block;
+  top: 200px;
+  /* Rectangle 2: */
+  background: #E05244;
+border: 1px solid  #B7453A;
+  background-image: url(images/jorah1.jpg);
+  background-repeat: no-repeat;
+  background-size: 60px;
+  background-position: 12%;
+  width: 100%;
+  height: 96px;
+}
+
+
+.container5{
+  display: block;
+  top: 200px;
+  background: #9B9B9B;
+  border: .25px solid #979797;
+  background-image: url(images/robb1.jpg);
+  background-repeat: no-repeat;
+  background-size: 60px;
+  background-position: 15%;
+  width: 100%;
+  height: 96px;
+
+}
+
+.container6{
+  display: block;
+  top: 200px;
+  background: #9B9B9B;
+  border: .25px solid #979797;
+  background-image: url(images/jon1.jpg);
+  background-repeat: no-repeat;
+  background-size: 60px;
+  background-position: 15%;
+  width: 100%;
+  height: 96px;
+}
+
+.container7{
+  display: block;
+  top: 200px;
+  background: #9B9B9B;
+  border: .25px solid #979797;
+  background-image: url(images/benjen1.jpg);
+  background-repeat: no-repeat;
+  background-size: 60px;
+  background-position: 15%;
+  width: 100%;
+  height: 96px;
+
+
+}
+
+.container8{
+  display: block;
+  top: 200px;
+  background: #9B9B9B;
+  border: .25px solid #979797;
+  background-image: url(images/rickon1.jpg);
+  background-repeat: no-repeat;
+  background-size: 60px;
+  background-position: 15%;
+  width: 100%;
+  height: 96px;
+}
+
+.container9{
+  display: block;
+  top: 200px;
+  background: #9B9B9B;
+  border: .25px solid #979797;
+  background-image: url(images/hodor1.png);
+  background-repeat: no-repeat;
+  background-size: 60px;
+  background-position: 15%;
+  width: 100%;
+  height: 96px;
+
+
+}
+
+.container10{
+  display: block;
+  top: 200px;
+  background: #9B9B9B;
+  border: .25px solid #979797;
+  background-image: url(images/bran1.png);
+  background-repeat: no-repeat;
+  background-size: 60px;
+  background-position: 15%;
+  width: 100%;
+  height: 96px;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+.titlecontainer{
+padding-top: 300px;
+width: 100%;
+padding-left: 60px;
+}
+
+.guide{
+width: 100%;
+padding-left: 70px;
+}
+
+.icons{
+
+}
+
+.enter1{
+width: 100%;
+padding-top: 80px;
+padding-left: 150px;
+}
+
+
+/* GAME OF THRONES: */
+
+h1{
+font-family: "Avenir-Black", sans-serif;
+font-size: 48px;
+color: #FAFBFC;
+letter-spacing: 2.1px;
+line-height: 58px;
+text-shadow: 0 2px 4px rgba(0,0,0,0.50);
+
+}
+
+
+/* CHARACTER GUIDE: */
+h2{
+font-family: "Avenir-Medium", sans-serif;
+font-size: 20px;
+color: #FAFBFC;
+letter-spacing: 2px;
+line-height: 58px;
+margin: 0 auto;
+}
+
+h3{
+  font-family: "Avenir-Light", sans-serif;
+  font-size: 20px;
+  color: #FAFBFC;
+  letter-spacing: 2px;
+  line-height: 58px;
+  text-decoration: none;
+}
+
+.number{
+  list-style-type: none;
+   text-decoration: none;
+   padding-top: 20px;
+   text-align: center;
+   padding-left: 20px;
+
+}
+
+.header{
+  list-style-type: none;
+   text-decoration: none;
+   padding-top: 100px;
+   text-align: center;
+}
+
+.header a{
+  font-family: "Avenir-Light", sans-serif;
+  font-size: 20px;
+  color: #FAFBFC;
+  letter-spacing: 2px;
+  line-height: 58px;
+  text-decoration: none;
+}
+
+
+
+
+
+
+.number a{
+  font-family: "Avenir-Light", sans-serif;
+  font-size: 14px;
+  color: #FAFBFC;
+  letter-spacing: 2px;
+  line-height: 58px;
+  text-decoration: none;
+}

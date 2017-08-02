@@ -1,0 +1,135 @@
+
+.background{
+width: 100%;
+padding: 0px;
+height: 1000px;
+background: #5F7987;
+border: 0px;
+
+}
+
+
+.icon1{
+position: absolute;
+top: 280px;
+left: 60px;
+bottom: 100px;
+width: 49px;
+height: 49px;
+}
+
+.icon2{
+position: absolute;
+top: 280px;
+left: 160px;
+bottom: 100px;
+width: 49px;
+height: 49px;
+}
+
+
+
+.icon3{
+position: absolute;
+top: 280px;
+left: 260px;
+bottom: 100px;
+width: 49px;
+height: 49px;
+}
+
+.icon4{
+position: absolute;
+top: 560px;
+left: 60px;
+bottom: 100px;
+width: 49px;
+height: 49px;
+}
+
+.icon5{
+position: absolute;
+top: 560px;
+left: 160px;
+bottom: 100px;
+width: 49px;
+height: 49px;
+}
+
+
+
+.icon6{
+position: absolute;
+top: 560px;
+left: 260px;
+bottom: 100px;
+width: 49px;
+height: 49px;
+}
+
+
+
+
+
+
+
+
+
+.titlecontainer{
+padding-top: 300px;
+width: 100%;
+padding-left: 60px;
+}
+
+.guide{
+width: 100%;
+padding-left: 70px;
+}
+
+.icons{
+
+}
+
+.enter1{
+width: 100%;
+padding-top: 80px;
+padding-left: 150px;
+}
+
+
+/* GAME OF THRONES: */
+
+h1{
+font-family: "Avenir-Black", sans-serif;
+font-size: 48px;
+color: #FAFBFC;
+letter-spacing: 2.1px;
+line-height: 58px;
+text-shadow: 0 2px 4px rgba(0,0,0,0.50);
+
+}
+
+
+/* CHARACTER GUIDE: */
+h2{
+font-family: "Avenir-Medium", sans-serif;
+font-size: 20px;
+color: #FAFBFC;
+letter-spacing: 2px;
+line-height: 58px;
+margin: 0 auto;
+}
+
+.enter{
+  list-style-type: none;
+   text-decoration: none;
+}
+
+.enter a{
+  font-family: "Avenir-Light", sans-serif;
+  font-size: 14px;
+  color: #FAFBFC;
+  letter-spacing: 2px;
+  line-height: 58px;
+  text-decoration: none;
+}
